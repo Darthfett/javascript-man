@@ -1,0 +1,25 @@
+{
+  "name": "javascript-man",
+  "version": "0.0.0",
+  "description": "Jetpack-Man in canvas js (uses chem engine)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Darthfett/javascript-man.git"
+  },
+  "keywords": [
+    "javascript",
+    "jetpack",
+    "man",
+    "megaman-x-clone"
+  ],
+  "author": "Darthfett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darthfett/javascript-man/issues"
+  },
+  "homepage": "https://github.com/Darthfett/javascript-man"
+}
