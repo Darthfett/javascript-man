@@ -1,36 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" width="50" height="12" tilewidth="32" tileheight="32">
- <tileset firstgid="1" name="tileset" tilewidth="32" tileheight="32" spacing="1" margin="1">
-  <image source="tileset.png" trans="ffffff" width="265" height="265"/>
+ <tileset firstgid="1" name="brambles" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="brambles.png" trans="ffffff" width="265" height="265"/>
+ </tileset>
+ <tileset firstgid="65" name="sky" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="sky.png" trans="ffffff" width="265" height="265"/>
+ </tileset>
+ <tileset firstgid="129" name="cacti" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="cacti.png" trans="ffffff" width="265" height="265"/>
+ </tileset>
+ <tileset firstgid="193" name="machines" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="machines.png" trans="ffffff" width="265" height="265"/>
+ </tileset>
+ <tileset firstgid="257" name="sand" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="sand.png" trans="ffffff" width="265" height="265"/>
  </tileset>
  <layer name="Sky" width="50" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjZ2BgYB/Fo3gUj+JRTDfMP0yw+CgexaMYJwYAOgoeeQ==
+   eJxzZGBgcBzFo3gUj+JRTDfsOUxw4CgexaMYJwYApEymaQ==
   </data>
  </layer>
  <layer name="Behind Sand" width="50" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjIJRMApGAQxIU0mNJBArUuAOkF4lqDkDAWD2IwMlBtx+wqZ+JAMAe+4Blg==
+   eJxjYBgFo2AUjIJRMApGAQw0U0lNIxAzUuAOkF4mqDkDAWD2IwMmBtx+wqZ+JAMAPiwCFg==
   </data>
  </layer>
  <layer name="Sand" width="50" height="12">
   <data encoding="base64" compression="zlib">
-   eJztkLEOgDAIRElc1Nahpf7/r0oTL5JaK4ODAy+5lOGgB0SO4ziO8z+mj33WGbWeXzTygEW0ioIxQ2gURRvZ96s9WfVnNQPZkCkPPNgB3iTiU/D2gB/eot6d7HdAH3dq7Jbo/of2RLpur/Pzw7zQzC5KbQ8b9zgAbdsFdg==
+   eJztkLEKgDAMRBuctHVoE///V41Q4SyhRHBwyIPDwef1akpBEARB8D8W+tbzdnj6PM6qzqZpzn2XlyFFs5P/fpmeHQ06xk0zx9ovGp646HOPwPN48R/E6ODece+uxhnoFLjn6OKmbKT29zJ8gx0eTrkGBUk=
   </data>
  </layer>
  <layer name="Cacti1" width="50" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjIJRMAoGJ2AiUo00lC1DoX2SRKghxw5GKqkhF4D8RcjdkjjYyADmRkUgVkKilbCoGcyAHvEBAGTaAYY=
+   eJxjYBgFo2AUjIJRMAoGJzhEpJpmKLuFQvsaiVBDjh0HqaSGXADyFyF3N+JgIwOYGxmBmAmJZsKiZjADesQHAMUMCiY=
   </data>
  </layer>
  <layer name="Cacti2" width="50" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjIJRMApGATFAeqAdQCcgRYQaJSgGAUUaumWoAgDUeACb
+   eJxjYBgFo2AUjIJRMApGATGgeaAdQCfQRIQaJigGAUYaumWoAgDQBwEL
   </data>
  </layer>
  <layer name="Brambles" width="50" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjIJRMApGwSggHigDsQoSrTKwzhmUAADO0ACz
+   eJxjYBgFo2AUjIJRMApGwSggHjADMQsSzTKwzhmUAAAdUAAT
   </data>
  </layer>
 </map>
