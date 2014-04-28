@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="12" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tileset" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="tileset.png" trans="ffffff" width="265" height="265"/>
+ </tileset>
+ <layer name="Sky" width="50" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjZ2BgYB/Fo3gUj+JRTDfMP0yw+CgexaMYJwYAOgoeeQ==
+  </data>
+ </layer>
+ <layer name="Behind Sand" width="50" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGAQxIU0mNJBArUuAOkF4lqDkDAWD2IwMlBtx+wqZ+JAMAe+4Blg==
+  </data>
+ </layer>
+ <layer name="Sand" width="50" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkLEOgDAIRElc1Nahpf7/r0oTL5JaK4ODAy+5lOGgB0SO4ziO8z+mj33WGbWeXzTygEW0ioIxQ2gURRvZ96s9WfVnNQPZkCkPPNgB3iTiU/D2gB/eot6d7HdAH3dq7Jbo/of2RLpur/Pzw7zQzC5KbQ8b9zgAbdsFdg==
+  </data>
+ </layer>
+ <layer name="Cacti1" width="50" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMAoGJ2AiUo00lC1DoX2SRKghxw5GKqkhF4D8RcjdkjjYyADmRkUgVkKilbCoGcyAHvEBAGTaAYY=
+  </data>
+ </layer>
+ <layer name="Cacti2" width="50" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGATFAeqAdQCcgRYQaJSgGAUUaumWoAgDUeACb
+  </data>
+ </layer>
+ <layer name="Brambles" width="50" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSggHigDsQoSrTKwzhmUAADO0ACz
+  </data>
+ </layer>
+</map>
